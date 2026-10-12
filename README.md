@@ -27,6 +27,8 @@ Most of this lives in private client and company repos. Here is what's in them.
 
 ## Public work
 
+- [**google-ads-mcp**](https://github.com/jayweezy247/google-ads-mcp): an MCP server for Google Ads: reporting tools plus confirmation-gated writes, per-session accounts, rate limits and an append-only action log, with tests.
+- [**voice-agent-bakeoff**](https://github.com/jayweezy247/voice-agent-bakeoff): a case study on choosing voice AI by bake-off, splitting the decision by channel, and keeping the rules outside the model.
 - [**tracking-stack-mcp**](https://github.com/jayweezy247/tracking-stack-mcp): an MCP server for setting up GA4, Google Tag Manager and WhatConverts, behind a create-only, dry-run-by-default write contract with an append-only action log.
 
 ## How I work
